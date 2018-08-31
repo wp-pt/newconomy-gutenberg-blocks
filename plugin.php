@@ -5,7 +5,7 @@
  * Description: Gutenberg plugin created via create-guten-block.
  * Author: Zorca
  * Author URI: https://zorca.org/
- * Version: 1.0.0
+ * Version: 1.0.1
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
