@@ -5,7 +5,7 @@
  * Description: Gutenberg plugin created via create-guten-block.
  * Author: Zorca
  * Author URI: https://zorca.org/
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
@@ -20,4 +20,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Block Initializer.
  */
-require_once plugin_dir_path( __FILE__ ) . 'init.php';
+require_once plugin_dir_path( __FILE__ ) . 'includes/init.php';
